@@ -1,0 +1,6 @@
+spring:
+    data:
+        mongodb:
+            uri: "mongodb+srv://Admin:LzK08slVGdBlrtzR@cluster0.dybiw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+            database: crud
+            port : 27017
